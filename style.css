@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #52b8c5;
+    color: rgb(245, 242, 242);
+    text-align: center;
+    padding: 10px;
+}
+
+#auth-buttons button {
+    margin: 10px;
+}
+
+#event-form label, #event-form input {
+    display: block;
+    margin: 5px 0;
+}
+
+#event-form button {
+    margin-top: 10px;
+}
+
+#event-list {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px;
+    background-color: #999090;
+    margin-bottom: 10px;
+}
